@@ -1,7 +1,7 @@
 name: Ottsonic
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.23187
+typography_spectrum: 0.22405
 title: Ottsonic
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#e2b13e'
     - '#e4d2e2'
   brandStrength: 0.375
-  lightness: 0.375
-  saturation: 0.4375
-  rhythmicContrast: 0.5
+  lightness: 0.25
+  saturation: 0.125
+  rhythmicContrast: 1
 purpose: []
