@@ -4,8 +4,15 @@
         <description><![CDATA[Ottsonic]]></description>
         <link>https://thegrid.ai/ottsonic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 21:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 21:33:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ottsonic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A cheap hardware reverb is unlikely to sound better [or even as good] as a good plugin reverb. All digital reverbs, whether plugins or outboard, use the same types of algorithm to generate their effect, whilst the hardware version will also need to include a case, power supply, display, physical memory, input and output converters, etc, in the price.  A £300 hardware reverb won't sound any better than a £50 plugin and a £130 plugin reverb will kick the arse off any hardware reverb you can get for </p>]]></description>
+            <link>https://thegrid.ai/ottsonic/a-cheap-hardware-reverb-is-unlikely-to-sound-better-or-even/index.html</link>
+            <guid isPermaLink="false">48a62ed6-10f1-4f10-97a9-bb6c3eb433c9</guid>
+            <pubDate>Wed, 06 Jan 2016 21:33:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Make Noise Erbe-Verb]]></title>
             <description><![CDATA[<article><h1>Make Noise Erbe-Verb</h1><p>The Erbe-Verb is more than a collection of reverb algorithms or presets, it is a unique, modeless, continuously variable reverb algorithm with complete voltage control. Typical reverb types such as plate, room, hall, shimmer and others may be programmed by adjusting the knobs. The continuously variable algorithm allows for hybrid and unreal spaces to be found.</p></article>]]></description>
